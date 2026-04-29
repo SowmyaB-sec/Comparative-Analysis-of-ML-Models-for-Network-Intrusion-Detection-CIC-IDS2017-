@@ -1,7 +1,6 @@
 # Comparative Analysis of ML Models for Network Intrusion Detection (CIC-IDS2017)
 
- This project benchmarks three Machine Learning models - **Random Forest, Naive Bayes, and Isolation Forest**
-- on the **CIC-IDS2017** dataset which contains **2.5M+ labled flows** and **14 attack types** for Network Intrusion Detection.
+ This project benchmarks three Machine Learning models - **Random Forest, Naive Bayes, and Isolation Forest** on the **CIC-IDS2017** dataset which contains **2.5M+ labled flows** and **14 attack types** for Network Intrusion Detection.
 The goal is to evaluate not only detection performance and accuracy but also **latency, throughput, and scalability** to assess real-world viability.
 
 ## Summary of Results
