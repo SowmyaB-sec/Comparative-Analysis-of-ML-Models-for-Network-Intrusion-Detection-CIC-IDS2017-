@@ -1,1 +1,3 @@
 # Comparative-Analysis-of-ML-Models-for-Network-Intrusion-Detection-CIC-IDS2017-
+Benchmarked three ML-models Random Forest, Naive Bayes, and Isolation Forest - on the CIC-IDS2017 dataset (2.5M+ labled flows, 14 attack types) for Network Intrusion Detection. Evaluated beyond accuracy alone: latency, throughput, and scalability were measured to assess real-world viability. Random Forest led on detection (99.78% accuracy, F1:0.77); Niave Bayes dominated on speed (953k samples/sec); Isolation Forest offered unsupervised anomaly detection without labled data. 
+Key findings: High accuracy and operational efficiency rarely coexist - model selection must be driven by deployment constraints, not benchmark scores.
